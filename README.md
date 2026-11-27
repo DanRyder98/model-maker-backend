@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/654862ef-56f4-4a7a-b21f-77b276287453
+
 # Model Maker API
 
 Training service for the Model Maker web app. It fits a small feed-forward network to a CSV and reports progress back to that app.
