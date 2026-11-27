@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+
+# Local demo recording. Upload demo.mp4 through the GitHub README editor.
+*.mov
+demo.mp4
+.pytest_cache/
+.mypy_cache/
